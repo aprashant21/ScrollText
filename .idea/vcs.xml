@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../../" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calculator-Android-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloToast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palbat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShareDuniya" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShareDuniyaAdmin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TheBigOcean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TheBigOcean2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/naapjokh" vcs="Git" />
+  </component>
+</project>

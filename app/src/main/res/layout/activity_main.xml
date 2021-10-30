@@ -23,6 +23,7 @@
         android:id="@+id/article_subheading"
         android:layout_below="@id/article_heading"
         android:layout_width="match_parent"
+        android:autoLink="web"
         android:layout_height="wrap_content"
         android:text="@string/article_subtitle"
         android:padding="@dimen/padding_regular"

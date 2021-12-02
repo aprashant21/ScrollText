@@ -37,15 +37,15 @@
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
 
             <TextView
+                android:id="@+id/article"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/article"
-                android:padding="@dimen/padding_regular"
-                android:lineSpacingExtra="@dimen/line_spacing"
-                android:text="@string/article_text"
                 android:autoLink="web"
+                android:lineSpacingExtra="@dimen/line_spacing"
+                android:lineSpacingMultiplier="1.5"
+                android:padding="@dimen/padding_regular"
 
-                />
+                android:text="@string/article_text" />
 
             <Button
                 android:id="@+id/button"

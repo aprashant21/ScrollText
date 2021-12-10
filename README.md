@@ -9,9 +9,10 @@ Scroll view support only one element so if we have to use multiple element then 
 
 The tasks performed is shown below:
 
-<img src="https://github.com/aprashant21/ScrollText/blob/task1/images/task.jpg" width="100" height="100">
+<img src="https://github.com/aprashant21/ScrollText/blob/task1/images/task.jpg" width="500px" height="500px">
 
-![TASKGIF!](images/taskvideo.gif)
+
+<img src="https://github.com/aprashant21/ScrollText/blob/task1/images/taskvideo.gif" width="500px" height="500px"
 
 Second one is Coding challenge,
 In coding challenge,
@@ -20,6 +21,7 @@ Not required to perform any onClick action in this button.
 the proof the required challenge shown below:
 
 ![CHALLENGE!](images/scrolltext_coding_challenge.jpg)
+
 
 Third one is Homework
 In Homework,

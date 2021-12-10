@@ -9,9 +9,9 @@ Scroll view support only one element so if we have to use multiple element then 
 
 The tasks performed is shown below:
 
-![TASK!](images/task.jpg){:height="50%" width="50%"}
+<img src="https://github.com/aprashant21/ScrollText/blob/task1/images/task.jpg" width="100" height="100">
 
-![TASKGIF!](images/taskvideo.gif){:height="50%" width="50%"}
+![TASKGIF!](images/taskvideo.gif)
 
 Second one is Coding challenge,
 In coding challenge,
@@ -19,14 +19,14 @@ I have to put a simple button in the bottom of the description named "Add a Comm
 Not required to perform any onClick action in this button.
 the proof the required challenge shown below:
 
-![CHALLENGE!](images/scrolltext_coding_challenge.jpg){:height="50%" width="50%"}
+![CHALLENGE!](images/scrolltext_coding_challenge.jpg)
 
 Third one is Homework
 In Homework,
 It is required to align horizontally to both subheading and description which are shown below:
 
-![HOMEWORK!](images/scrolltext_homework.jpg){:height="50%" width="50%"}
+![HOMEWORK!](images/scrolltext_homework.jpg)
 
-![HOMEWORKPIC!](images/homework.gif){:height="50%" width="50%"}
+![HOMEWORKPIC!](images/homework.gif)
 
 So thats all for the scrolling text app.
